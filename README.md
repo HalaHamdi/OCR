@@ -28,6 +28,4 @@ pip install opencv-python
 pip install  tesseract
 ```
 ## Demo Result
-<img src="demo-result.png" width="100" style="text-align:center;">
-
 ![](demo-result.png)
